@@ -18,7 +18,7 @@ import gc
 from tqdm import tqdm
 from langchain.prompts import PromptTemplate
 # Set your Gemini API key here
-GEMINI_API_KEY = "AIzaSyD4qGBhnLPy5kFqdK62vfUhkkzgJXcahXI"  # Replace with your actual Gemini API key
+GEMINI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxx"  # Replace with your actual Gemini API key
 genai.configure(api_key=GEMINI_API_KEY)
 
 from langchain.llms.base import LLM
