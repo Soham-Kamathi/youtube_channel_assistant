@@ -1,0 +1,9 @@
+[
+  {
+    "timestamp": "2024-11-10T21:17:09.216607",
+    "question": "Example Question",
+    "answer": "Example answer text from the chatbot.",
+    "is_helpful": true,
+    "improvement_feedback": null
+  }
+]

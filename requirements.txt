@@ -1,0 +1,10 @@
+streamlit>=1.28.0
+google-generativeai
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+huggingface_hub
+tf-keras
+torch
+tqdmpip 
