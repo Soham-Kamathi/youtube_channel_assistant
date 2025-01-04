@@ -1,5 +1,5 @@
 YouTube Assistant Chatbot
-The YouTube Assistant Chatbot is an AI-powered conversational tool designed to help users explore and interact with the content of YouTube videos effectively. The project integrates advanced language models like Gemini and document management techniques to deliver accurate, context-aware answers based on video subtitles.
+The YouTube Assistant Chatbot is an AI-powered conversational tool designed to help users explore and interact with the content of YouTube videos effectively. This bot has been created using Nikhil Kamath's YouTube channel as a reference to demonstrate its capabilities. The project integrates advanced language models like Gemini and document management techniques to deliver accurate, context-aware answers based on video subtitles.
 
 <br>
 Features
@@ -50,6 +50,10 @@ Run the Streamlit application: <br>
 bash
 Copy code
 streamlit run app.py  
+<br>
+Reference
+This bot has been trained using videos and subtitles from Nikhil Kamath's YouTube channel, providing a rich dataset for creating an engaging conversational experience.
+
 <br>
 Future Improvements
 Support for multiple languages in subtitles and queries. <br>
