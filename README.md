@@ -39,16 +39,13 @@ Chat Interface: <br> Users interact with the chatbot via a Streamlit-based web a
 Setup and Installation
 Clone the repository. <br>
 Install dependencies using: <br>
-bash
-Copy code
+
 pip install -r requirements.txt  
 Set up the Gemini API key in your environment: <br>
-bash
-Copy code
+
 export GEMINI_API_KEY="your_api_key"  
 Run the Streamlit application: <br>
-bash
-Copy code
+
 streamlit run app.py  
 <br>
 Reference
